@@ -1,0 +1,5 @@
+# Log format
+# ZCZC WEEK# MINUTES LogCode Description
+ZCZC W00 100 L02 Zoom Meeting 30-08-2021
+ZCZC W00 15 L03 W0 Assignment
+ZCZC W00 15 L04 W0 Assignment
