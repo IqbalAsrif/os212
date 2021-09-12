@@ -28,7 +28,7 @@ navbarlinks:
 title:       "GitHub Page Template"
 lang:        "en-US"
 author:      "Iqbal Asrif"
-address:     "Box 7, Mawitaan, Bangalla."
+address:     "Internet"
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
@@ -44,6 +44,7 @@ plugins:
 google_analytics: "UA-89852122-15"
 
 urlweb:           "https://iqbalasrif.github.io/os212/"
+urlghpage:        "https://iqbalasrif.github.io/os212/"
 urlcontact:       "TBA"
 urlgithub:        "https://github.com/IqbalAsrif/os212"
 
