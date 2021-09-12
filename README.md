@@ -8,7 +8,7 @@ You can download the source either as a
 [TARBALL]({{ site.baseurl }}/template.tar.bz2) file.
 File [LISTINGS]({{ site.baseurl }}/000.html) are also available.
 
-I am {{ site.author }}, {{ site.address }}
+I am {{ site.author }}
 
 <br>
 ## Table Example
