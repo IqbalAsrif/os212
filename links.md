@@ -12,3 +12,6 @@ Using Git for beginner
 
 3. [Pro Git Book] (https://git-scm.com/book/en/v2)<br>
 In-depth explanation of Git
+
+4. [Managing Linux Disk] (https://www.networkworld.com/article/3221415/linux-commands-for-managing-partitioning-troubleshooting.html)<br>
+Linux commands for managing, partitioning, troubleshooting
