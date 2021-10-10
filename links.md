@@ -18,3 +18,9 @@ Linux commands for managing, partitioning, troubleshooting
 
 5. [C Pointers] (https://www.programiz.com/c-programming/c-pointers)<br>
 Learn about: What pointers are, how to use it, and common mistakes
+
+6. [Linux Memory Management] (https://www.thegeekstuff.com/2012/02/linux-memory-management/)<br>
+Simple Linux Memory Management for Beginners - Virtual Memory and Demand Paging
+
+7. [Linux Memory Management 2] (https://www.golinuxcloud.com/tutorial-linux-memory-management-overview/)<br>
+Guide for Linux Memory Management

@@ -54,3 +54,9 @@ ZCZC W04 45 L06 References/Books/Documents/GSGS related
 ZCZC W04 40 L03 GitHub related
 ZCZC W04 90 L23 Linux CLI including tar, etc.
 ZCZC W04 20 L05 Quiz related
+ZCZC W05 60 L14 Assignment #05
+ZCZC W05 15 L03 GitHub related
+ZCZC W05 45 L06 References/Books/Documents/GSGS related
+ZCZC W05 10 L01 SCELE/Discord Related
+ZCZC W04 90 L02 ZOOM meetings related
+ZCZC W05 20 L05 Quiz related
