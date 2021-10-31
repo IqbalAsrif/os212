@@ -24,9 +24,12 @@ Simple Linux Memory Management for Beginners - Virtual Memory and Demand Paging
 
 7. [Linux Memory Management 2] (https://www.golinuxcloud.com/tutorial-linux-memory-management-overview/)<br>
 Guide for Linux Memory Management
+<<<<<<< HEAD
 
 8. [Fork Summary] (https://topic.alibabacloud.com/a/fork-summary-in-linux_1_16_31753794.html)<br>
 Fork Summary in Linux
 
 9. [Fork Flow] (https://www.rubrik.com/blog/architecture/21/6/fork-is-the-way-lets-make-it-hurt-less)<br>
 Fork Time Performance
+=======
+>>>>>>> origin/master

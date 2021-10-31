@@ -11,6 +11,9 @@ ZCZC W04 luthfibalaka
 ZCZC W05 mughniwibisono
 ZCZC W05 muhammadfarasbaginda
 ZCZC W05 mfikriharyanto
+<<<<<<< HEAD
 ZCZC W06 naufalpram
 ZCZC W06 nakarz
 ZCZC W06 muhammadrazif
+=======
+>>>>>>> origin/master

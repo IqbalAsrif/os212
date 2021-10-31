@@ -58,6 +58,7 @@ ZCZC W05 60 L14 Assignment #05
 ZCZC W05 15 L03 GitHub related
 ZCZC W05 45 L06 References/Books/Documents/GSGS related
 ZCZC W05 10 L01 SCELE/Discord Related
+<<<<<<< HEAD
 ZCZC W05 90 L02 ZOOM meetings related
 ZCZC W05 20 L05 Quiz related
 ZCZC W06 100 L02 Zoom meetings related
@@ -71,3 +72,7 @@ ZCZC W06 25 L16 Assignment #06
 ZCZC W06 30 L17 Assignment #07
 ZCZC W06 20 L18 Assignment #08
 ZCZC W06 20 L19 Assignment #09
+=======
+ZCZC W04 90 L02 ZOOM meetings related
+ZCZC W05 20 L05 Quiz related
+>>>>>>> origin/master
