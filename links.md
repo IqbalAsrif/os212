@@ -34,8 +34,14 @@ Fork Time Performance
 10. [Semaphore] (https://www.tutorialspoint.com/semaphores-in-operating-system)<br>
 Semaphore explained with examples
 
-11. [Process Synchronization) (https://www.guru99.com/process-synchronization.html)<br>
+11. [Process Synchronization] (https://www.guru99.com/process-synchronization.html)<br>
 Process Synchronization in OS
 
 12. [Deadlocks] (https://www.krivalar.com/OS-deadlocks)<br>
 Deadlocks in OS. With another resources for synchronization and deadlocks in the same web.
+
+13. [Multi Processor] (https://www.javatpoint.com/multiprocessing-operating-system) <br>
+Multi Processing in Operating System
+
+14. [Scheduling] (https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm) <br>
+Operating System Scheduling
