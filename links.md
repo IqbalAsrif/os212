@@ -45,3 +45,9 @@ Multi Processing in Operating System
 
 14. [Scheduling] (https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm) <br>
 Operating System Scheduling
+
+15. [Storage Management] (https://www.techtutsonline.com/disk-storage-management-in-linux/) <br>
+Disk Storage Management in Linux
+
+16. [UEFI] (https://whatis.techtarget.com/definition/Unified-Extensible-Firmware-Interface-UEFI) <br>
+UEFI Explained
